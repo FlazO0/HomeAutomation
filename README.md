@@ -12,7 +12,7 @@ Neste projeto, utilizaremos um Arduino para controlar dispositivos domésticos, 
 3. **Sensores Adicionais**: Considere adicionar sensores adicionais, como sensores de temperatura, umidade ou presença, para criar automações mais avançadas.
 4. **Módulos de Relé**: Para controlar dispositivos elétricos, como luzes e ventiladores.
 5. **Dispositivos Domésticos**: Luzes, ventiladores ou outros dispositivos que serão controlados.
-5. **Fios**: Para conexão de todos os dispositivos precisamos de cabos desdo cabo USB que liga o Arduino ao Pc ate os fios que ligam o relé ao eletrodoméstico e outros.
+6. **Fios**: Para conexão de todos os dispositivos precisamos de cabos desdo cabo USB que liga o Arduino ao Pc ate os fios que ligam o relé ao eletrodoméstico e outros.
 #### Passos do Projeto:
 
 1. **Configuração do Hardware**:
